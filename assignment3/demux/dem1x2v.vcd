@@ -1,0 +1,56 @@
+$date
+	Fri Jun 06 10:46:48 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module dem1x2tb $end
+$var wire 2 ! y [1:0] $end
+$var reg 1 " en $end
+$var reg 1 # i $end
+$var reg 1 $ s $end
+$var integer 32 % z [31:0] $end
+$scope module demux $end
+$var wire 1 " en $end
+$var wire 1 # i $end
+$var wire 1 $ s $end
+$var wire 2 & y [1:0] $end
+$var reg 2 ' x [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b1 '
+b1 &
+b0 %
+0$
+1#
+1"
+b1 !
+$end
+#1000
+b0 !
+b0 &
+b0 '
+0#
+#2000
+b10 !
+b10 &
+b10 '
+1#
+1$
+b1 %
+#3000
+b0 !
+b0 &
+b0 '
+0#
+#4000
+b10 %

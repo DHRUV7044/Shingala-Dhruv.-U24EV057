@@ -1,0 +1,172 @@
+$date
+	Thu Jun 05 13:52:05 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module e4x2tb $end
+$var wire 2 ! y [1:0] $end
+$var wire 1 " active $end
+$var reg 1 # en $end
+$var reg 4 $ s [3:0] $end
+$var integer 32 % i [31:0] $end
+$scope module encoder $end
+$var wire 1 " active $end
+$var wire 1 # en $end
+$var wire 4 & s [3:0] $end
+$var wire 2 ' y [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 '
+b0 &
+b0 %
+b0 $
+0#
+0"
+b0 !
+$end
+#1
+b1 $
+b1 &
+b1 %
+#2
+b10 $
+b10 &
+b10 %
+#3
+b11 $
+b11 &
+b11 %
+#4
+b100 $
+b100 &
+b100 %
+#5
+b101 $
+b101 &
+b101 %
+#6
+b110 $
+b110 &
+b110 %
+#7
+b111 $
+b111 &
+b111 %
+#8
+b1000 $
+b1000 &
+b1000 %
+#9
+b1001 $
+b1001 &
+b1001 %
+#10
+b1010 $
+b1010 &
+b1010 %
+#11
+b1011 $
+b1011 &
+b1011 %
+#12
+b1100 $
+b1100 &
+b1100 %
+#13
+b1101 $
+b1101 &
+b1101 %
+#14
+b1110 $
+b1110 &
+b1110 %
+#15
+b1111 $
+b1111 &
+b1111 %
+#16
+b0 !
+b0 '
+b0 $
+b0 &
+1#
+b0 %
+#17
+1"
+b1 $
+b1 &
+b1 %
+#18
+b1 !
+b1 '
+b10 $
+b10 &
+b10 %
+#19
+b11 $
+b11 &
+b11 %
+#20
+b10 !
+b10 '
+b100 $
+b100 &
+b100 %
+#21
+b101 $
+b101 &
+b101 %
+#22
+b110 $
+b110 &
+b110 %
+#23
+b111 $
+b111 &
+b111 %
+#24
+b11 !
+b11 '
+b1000 $
+b1000 &
+b1000 %
+#25
+b1001 $
+b1001 &
+b1001 %
+#26
+b1010 $
+b1010 &
+b1010 %
+#27
+b1011 $
+b1011 &
+b1011 %
+#28
+b1100 $
+b1100 &
+b1100 %
+#29
+b1101 $
+b1101 &
+b1101 %
+#30
+b1110 $
+b1110 &
+b1110 %
+#31
+b1111 $
+b1111 &
+b1111 %
+#32
+b10000 %
